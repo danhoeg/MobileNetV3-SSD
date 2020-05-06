@@ -1,12 +1,13 @@
 # MobileNetV3-SSD
 
-
 MobileNetV3-SSD implementation in PyTorch 
 
-关于第二个版本请移步 https://github.com/shaoshengsong/MobileNetV3-SSD-Compact-Version
+关于第二个版本请移步 
+https://github.com/shaoshengsong/MobileNetV3-SSD-Compact-Version
 有测试结果
 
 **目的**
+
 Object Detection 
 应用于目标检测
 
@@ -81,10 +82,10 @@ python3 run_ssd_live_demo.py mb3-ssd-lite models/mb3-ssd-lite-Epoch-99-Loss-2.51
 
 **Cake and Bread Pretrained model**
 
-
 链接: https://pan.baidu.com/s/1byY1eJk3Hm3CTp-29KirxA 
 
 提取码: qxwv 
+
 
 **VOC Dataset Pretrained model**
 
